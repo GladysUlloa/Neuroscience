@@ -22,5 +22,11 @@ El análisis se divide en etapas clave diseñadas para la reproducibilidad y el 
 ## 📖 Uso Educativo
 Este repositorio sirve como material de apoyo para workshops, clases, etc, en **Ciencia de Datos aplicada a la Salud**, demostrando cómo transformar datos médicos crudos en modelos predictivos funcionales.
 
+## 📂 Dataset & Reproducibilidad
+Para ejecutar este proyecto, se utiliza el conjunto de datos de neuroimagen disponible en Kaggle. Los archivos están en formato NIfTI, diseñados para estudios de segmentación volumétrica.
+
+* **Fuente de Datos:** [Brain MRI Dataset en Kaggle](https://www.kaggle.com/datasets/unidpro/brain-cancer-dataset).
+* **Instrucciones:** Descargar el archivo `archive.zip`, subirlo a su entorno de ejecución (o Google Colab) y ejecutar la celda de descompresión incluida en el notebook.
+
 ---
 > *Transforming complex data into actionable medical insights.*
