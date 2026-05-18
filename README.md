@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
 
-**Autora:** PhD(c). Gladys Choque Ulloa in Computer Science (USP) | Statistics & Data Science Specialist | Machine Learning | Deep Learning *
+**Autora:** PhD(c). Gladys Choque Ulloa in Computer Science (USP) | Statistics & Data Science Specialist | Machine Learning | Deep Learning 
 
 ---
 
